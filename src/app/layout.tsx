@@ -10,8 +10,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Supabase Blog App",
-  description: "Supabase Blog App Ayomide",
+  title: "PostCraft",
+  description: "PostCraft App Ayomide",
 };
 
 export default function RootLayout({
